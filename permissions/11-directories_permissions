@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 664 permissions
+chmod 755 permissions
