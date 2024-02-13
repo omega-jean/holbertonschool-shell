@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR==3' lines.txt 
+cut -d"\r" -f3 iacta 
