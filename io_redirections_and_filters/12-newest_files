@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head -n1
+ls io_redirections_and_filters/ -Artls | tail -1
