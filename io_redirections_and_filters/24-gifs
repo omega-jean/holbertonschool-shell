@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.gif" -exec dirname {} \; | sort -u
+find . -type f -name "*.gif" -exec dirname {} \+ | sort -u
